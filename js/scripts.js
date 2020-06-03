@@ -38,3 +38,4 @@ const multi = function(number1, number2) {
         $("#output").text(result);
     });
   });
+  
